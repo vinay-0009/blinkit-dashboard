@@ -78,7 +78,7 @@
 
   <h2>📧 Contact</h2>
   <p>
-    Created by <b></b> <br>
+    Created by <b>parasharvinay199@gmail.com</b> <br>
     🔗 <a href="https://www.linkedin.com/in/vinay-parashar-955975300/" target="_blank">LinkedIn</a> | 
     💻 <a href="https://github.com/vinay-0009/blinkit-dashboard" target="_blank">GitHub</a>
   </p>
