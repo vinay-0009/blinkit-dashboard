@@ -57,7 +57,7 @@
   <h2>🚀 How to Use</h2>
   <ol>
     <li>Clone this repository:</li>
-    <pre><code>git clone https://github.com/your-username/blinkit-dashboard.git</code></pre>
+    <pre><code>git clone https://github.com/vinay-0009/blinkit-dashboard</code></pre>
     <li>Open the Power BI dashboard (<code>.pbix</code>) in Power BI Desktop</li>
     <li>Explore interactive visualizations and KPIs</li>
   </ol>
@@ -78,9 +78,9 @@
 
   <h2>📧 Contact</h2>
   <p>
-    Created by <b>Your Name</b> <br>
-    🔗 <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> | 
-    💻 <a href="https://github.com/your-username" target="_blank">GitHub</a>
+    Created by <b></b> <br>
+    🔗 <a href="https://www.linkedin.com/in/vinay-parashar-955975300/" target="_blank">LinkedIn</a> | 
+    💻 <a href="https://github.com/vinay-0009/blinkit-dashboard" target="_blank">GitHub</a>
   </p>
 
   <hr>
